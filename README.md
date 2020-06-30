@@ -11,6 +11,4 @@ V1 used a for loop and Math.random() to select a number of chars from a concaten
 
 ![Sample Password from Functioning Webpage](./Assets/WebpageCapture.PNG "Sample Password from Password Generator")
 
-https://jodoedjr.github.io/PasswordGenerator/
-
 [https://jodoedjr.github.io/PasswordGenerator/](https://jodoedjr.github.io/PasswordGenerator/)
